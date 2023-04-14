@@ -1,0 +1,61 @@
+table {
+    border: 5px solid blue;
+    border-collapse: collapse;
+    width: 1000px;  
+    height: 500px;
+    background-color: black; 
+    
+  }
+
+
+
+td {
+    border-bottom: 1px solid black;
+    border: 1px solid black; 
+    color: orange ; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    width: 100px; 
+    text-align: center; 
+    border: 2px solid white;
+} 
+
+.td2{  
+
+    border-bottom: 1px solid black;
+    border: 1px solid black; 
+    color: orange ; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    width: 100px; 
+    text-align: center;
+  
+
+} 
+
+.tr2 {  
+    background-color: darkblue;
+    color: orange ; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    width: 100px; 
+    text-align: center;
+}
+
+h1 {
+    text-align: left; 
+    width: 100px;
+} 
+
+h2 {  
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+    color: black; 
+
+} 
+
+.botao { 
+    text-align: center; 
+ }
+
+.msgg { 
+   background-color: darkblue;
+    padding: 20px;
+}
